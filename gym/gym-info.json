@@ -1,0 +1,285 @@
+
+  {
+    "name": {
+      "ko": "3인용 섹션",
+      "en": "3-seat section"
+    },
+    "brand": {
+      "ko": "쇠데르함",
+      "en": "SÖDERHAMN"
+    },
+    "desc": {
+      "ko": "스타일리시하고 산뜻한 느낌이 좋다면 시트가 깊고 넓은 소파는 어떨까요? 개성을 살려 맞춤 구성한 SÖDERHAMN 쇠데르함 소파에 혼자 또는 가족 모두와 함께 앉아 편안한 휴식을 즐겨보세요.",
+      "en": "If you like the stylish airy look, you have to try the deep generous seats. Create your own personal combination of SÖDERHAMN sofa, then sit down and relax – by yourself or together with the whole family."
+    },
+    "price": 699000,
+    "priceUnit": "￦",
+    "rating": "4.9",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/YTRbKqD/01-soederhamn-3-seat-section-gransel-natural-colour-1057493-pe848854-s5.jpg",
+        "hexColor": "0xFFEBE1D8"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/ZLB8kfW/02-soederhamn-3-seat-section-viarp-beige-brown-0802813-pe768605-s5.jpg",
+        "hexColor": "0xFFCBC7BF"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/pRhkW58/03-soederhamn-3-seat-section-tonerud-grey-1057813-pe848995-s5.jpg",
+        "hexColor": "0xFFA4A2A3"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/ykjRQ7k/04-soederhamn-3-seat-section-fridtuna-light-beige-1057705-pe848919-s5.jpg",
+        "hexColor": "0xFFC4BFB6"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/DMSS70P/05-soederhamn-3-seat-section-fridtuna-dark-grey-1057701-pe848915-s5.jpg",
+        "hexColor": "0xFF464849"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "2인용 소파",
+      "en": "2-seat sofa"
+    },
+    "brand": {
+      "ko": "페루프",
+      "en": "PÄRUP"
+    },
+    "desc": {
+      "ko": "이 커버는 폴리에스테르 소재의 GUNNARED/군나레드 원착 패브릭으로 제작되었습니다. 울과 같은 느낌을 지닌 내구성이 우수한 패브릭으로, 따스한 분위기와 투톤의 멜란지 효과가 특징입니다.",
+      "en": "Do you believe in love at first sight? Sleek design, quick assembly and easy-care with a removable and washable cover make it easy to love PÄRUP sofa. Welcoming to all of your loved ones!"
+    },
+    "price": 499000,
+    "priceUnit": "￦",
+    "rating": "4.8",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/D9dg49Y/06-paerup-3-seat-sofa-gunnared-beige-1041904-pe841184-s5.jpg",
+        "hexColor": "0xFFE1DAD1"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/0B9jMft/07-paerup-3-seat-sofa-vissle-dark-green-1041906-pe841186-s5.jpg",
+        "hexColor": "0xFF4D6452"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/s5XLCWr/08-paerup-3-seat-sofa-vissle-grey-1041907-pe841187-s5.jpg",
+        "hexColor": "0xFF6E6D71"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/vw0YyLX/09-paerup-3-seat-sofa-gunnared-dark-grey-1041905-pe841185-s5.jpg",
+        "hexColor": "0xFF4D4D4F"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "4인용소파+긴 의자",
+      "en": "4-seat sofa with chaise longue"
+    },
+    "brand": {
+      "ko": "쉬비크",
+      "en": "KIVIK"
+    },
+    "desc": {
+      "ko": "부드러운 KIVIK 쉬비크 소파의 안락함에 몸을 맡겨 보세요. 넉넉한 크기와 나지막한 팔걸이, 몸에 맞는 형태로 모양을 잡아주는 폼이 들어 있는 포켓스프링 덕분에 집을 찾아온 손님과 함께 오랫동안 앉아서 이야기하고 휴식을 취할 수 있습니다.",
+      "en": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socialising and relaxation."
+    },
+    "price": 1199000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/9N1hFkv/10-kivik-4-seat-sofa-with-chaise-longue-kelinge-grey-turquoise-1055849-pe848127-s5.jpg",
+        "hexColor": "0xFF4A6767"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/sPZWb20/11-kivik-4-seat-sofa-with-chaise-longue-hillared-beige-0479988-pe618875-s5.jpg",
+        "hexColor": "0xFFB2A291"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/LtjXk5h/12-kivik-4-seat-sofa-with-chaise-longue-tibbleby-beige-grey-1056150-pe848283-s5.jpg",
+        "hexColor": "0xFF909090"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/1Q36Mzy/13-kivik-4-seat-sofa-with-chaise-longue-hillared-anthracite-0479958-pe619110-s5.jpg",
+        "hexColor": "0xFF2F2E32"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "2인용 소파",
+      "en": "2-seat sofa"
+    },
+    "brand": {
+      "ko": "리나네스",
+      "en": "LINANÄS"
+    },
+    "desc": {
+      "ko": "이 커버는 폴리에스테르(폴리에스테르 원착) 소재의 VISSLE/비슬레 패브릭으로 제작됩니다. 매끄러운 직조와 멋진 투톤 효과가 있는 내구성 높은 소재입니다.",
+      "en": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socialising and relaxation."
+    },
+    "price": 299000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/r5v6ysS/14-linanaes-2-seat-sofa-vissle-beige-0972125-pe811545-s5.jpg",
+        "hexColor": "0xFFD0CBC7"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/s1Tq9fK/15-linanaes-2-seat-sofa-vissle-dark-grey-0962404-pe808061-s5.jpg",
+        "hexColor": "0xFF504F51"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "2인용 소파",
+      "en": "2-seat sofa"
+    },
+    "brand": {
+      "ko": "글로스타드",
+      "en": "GLOSTAD"
+    },
+    "desc": {
+      "ko": "작고 귀여운 소파로 좁은 공간에도 잘 어울립니다.",
+      "en": "Cuddle up in the comfortable KIVIK sofa. The generous size, low armrests and pocket springs with foam that adapts to the body invites you and your guests to many hours of socialising and relaxation."
+    },
+    "price": 145000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/DbqmmGL/16-glostad-2-seat-sofa-knisa-medium-blue-0950900-pe800740-s5.jpg",
+        "hexColor": "0xFF537285"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/dfm158x/17-glostad-2-seat-sofa-knisa-dark-grey-0950864-pe800736-s5.jpg",
+        "hexColor": "0xFF4C4C4C"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "2인용 소파베드",
+      "en": "2-seat sofa-bed"
+    },
+    "brand": {
+      "ko": "페루프",
+      "en": "PÄRUP"
+    },
+    "desc": {
+      "ko": "빠르고 간편하게 소파를 넓은 침대로 변신시켜보세요.",
+      "en": "Do you believe in love at first sight? Sleek design, quick assembly and easy-care with a removable and washable cover make it easy to love PÄRUP sofa. Welcoming to all of your loved ones!"
+    },
+    "price": 599000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/sy9hgZZ/18-paerup-2-seat-sofa-bed-gunnared-beige-0950156-pe800171-s5.jpg",
+        "hexColor": "0xFFE6DED5"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/TMPVFxy/19-paerup-2-seat-sofa-bed-gunnared-dark-grey-0950161-pe800176-s5.jpg",
+        "hexColor": "0xFF6B6B6D"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/fSmQVmP/20-paerup-2-seat-sofa-bed-vissle-grey-0950171-pe800185-s5.jpg",
+        "hexColor": "0xFF747377"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "소파베드",
+      "en": "2-seat sofa-bed"
+    },
+    "brand": {
+      "ko": "플로테보",
+      "en": "FLOTTEBO"
+    },
+    "desc": {
+      "ko": "한 곳에서 영화를 보고 친구와 이야기하고, 책을 읽고 가족과 시간을 보내고, 이메일을 확인하고 편히 잠들 수 있습니다. 분리 가능한 포근한 쿠션에 기대어 앉거나, 간편하게 옮겨 침대로 활용해보세요.",
+      "en": "Watch movies or talk to a friend. Read a book or take a break with the family. Email or sleep. Here’s space for everything in your life. Moveable cushions make the sofa comfy for sitting on and lying down."
+    },
+    "price": 799000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/KW06WxY/21-flottebo-sofa-bed-gunnared-medium-grey-0713783-pe729758-s5.jpg",
+        "hexColor": "0xFF727177"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/jLwQc4S/22-flottebo-sofa-bed-vissle-dark-grey-0714009-pe729880-s5.jpg",
+        "hexColor": "0xFF3E3E3E"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/3ctkzvg/23-flottebo-sofa-bed-vissle-purple-0714044-pe729893-s5.jpg",
+        "hexColor": "0xFF69478D"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "1.5인용 암체어커버",
+      "en": "Cover for 1,5-seat armchair"
+    },
+    "brand": {
+      "ko": "박셀렌",
+      "en": "BACKSÄLEN"
+    },
+    "desc": {
+      "ko": "한 곳에서 영화를 보고 친구와 이야기하고, 책을 읽고 가족과 시간을 보내고, 이메일을 확인하고 편히 잠들 수 있습니다. 분리 가능한 포근한 쿠션에 기대어 앉거나, 간편하게 옮겨 침대로 활용해보세요.",
+      "en": "This cover is made of a cotton fabric with a slight texture which, when combined with the white colour, gives the sofa a light and bright look."
+    },
+    "price": 149000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/kHP2nF3/24-backsaelen-cover-for-1-5-seat-armchair-blekinge-white-0951637-pe801292-s5.jpg",
+        "hexColor": "0xFFEEEDE8"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/10Sy6P4/25-backsaelen-cover-for-1-5-seat-armchair-hallarp-grey-0951643-pe801298-s5.jpg",
+        "hexColor": "0xFF6B6B6D"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/86dL2r8/26-backsaelen-cover-for-1-5-seat-armchair-katorp-natural-0951640-pe801295-s5.jpg",
+        "hexColor": "0xFFD4C7B7"
+      }
+    ]
+  },
+  {
+    "name": {
+      "ko": "5인용 코너 소파베드 + 긴 의자",
+      "en": "Crnr sofa-bed, 5-seat w chaise lng"
+    },
+    "brand": {
+      "ko": "밤래",
+      "en": "VIMLE"
+    },
+    "desc": {
+      "ko": "VIMLE/빔레 소파 시리즈에는 사용자의 취향에 맞게 가정에 적합한 맞춤형 솔루션으로 조합할 수 있는 섹션이 포함되어 있습니다. 여기에는 손쉽게 두툼하고 아늑한 매트리스로 변경할 수 있는 소파베드가 포함되어 있습니다.",
+      "en": "The VIMLE sofa series has sections that can be combined as you like into a customised solution for you and your home. This one has a sofa-bed which is super easy to convert with a thick, cosy mattress."
+    },
+    "price": 3490000,
+    "priceUnit": "￦",
+    "rating": "5.0",
+    "colorList": [
+      {
+        "imageUrl": "https://i.ibb.co/KDXwSf6/27-vimle-crnr-sofa-bed-5-seat-w-chaise-lng-grann-bomstad-black-0817697-pe776081-s5.jpg",
+        "hexColor": "0xFF303032"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/fxJc5yw/28-vimle-crnr-sofa-bed-5-seat-w-chaise-lng-grann-bomstad-golden-brown-0817695-pe776079-s5.jpg",
+        "hexColor": "0xFFC9875E"
+      }
+    ]
+  }
+]
